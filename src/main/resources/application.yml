@@ -1,0 +1,3 @@
+reactor:
+  numberOfQuotes: 20
+  channel: quotes
